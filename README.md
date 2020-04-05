@@ -11,3 +11,5 @@ You will need COCO annotations - they can be downloaded from the official websit
 TL;DR/ TL;DC (Too Late, Don't Care):
 ***
 Just download the .csv file- it has all the info. 
+
+![coco_screenshot](https://user-images.githubusercontent.com/58288779/78464714-367bdc80-771f-11ea-949c-0ca7b8f2b133.png)
